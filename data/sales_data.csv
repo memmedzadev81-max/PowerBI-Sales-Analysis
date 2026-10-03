@@ -1,11 +1,51 @@
 OrderID,OrderDate,Region,Category,Product,Customer,Quantity,UnitPrice,Discount%,SalesAmount,Cost
-1,2024-02-16,Shaki,Home & Kitchen,Vacuum,Ismayilov T.,3,953.04,0,2859.12,1154.7
-2,2025-08-12,Shaki,Sports,Running Shoes,Aliyev A.,2,428.11,15,727.79,331.67
-3,2024-11-14,Ganja,Books,Textbook,Hasanov R.,8,1115.19,0,8921.52,5050.99
-4,2025-05-24,Baku,Books,Comic,Huseynova L.,2,482.01,0,964.02,533.52
-5,2024-02-19,Ganja,Electronics,Tablet,Rzayev K.,4,564.75,0,2259.0,1313.56
-6,2024-12-14,Baku,Clothing,Jacket,Mammadova S.,8,17.38,0,139.04,89.1
-7,2024-07-14,Ganja,Clothing,T-Shirt,Aliyeva F.,3,976.2,0,2928.6,1229.12
-8,2024-08-01,Shaki,Sports,Football,Hasanov R.,8,538.2,0,4305.6,1914.42
-9,2025-06-25,Shaki,Clothing,Jacket,Aliyeva F.,6,132.68,10,716.47,395.55
-10,2025-04-24,Shaki,Home & Kitchen,Toaster,Aliyeva F.,7,967.78,15,5758.29,2509.95
+1,2025-02-11,Shaki,Home & Kitchen,Blender,Rzayev K.,8,481.93,5,3662.67,1899.32
+2,2024-12-15,Sumgayit,Sports,Running Shoes,Hasanov R.,4,445.87,0,1783.48,1113.8
+3,2025-06-12,Ganja,Sports,Running Shoes,Aliyeva F.,8,1111.52,0,8892.16,5433.4
+4,2025-01-14,Shaki,Clothing,Jacket,Rzayev K.,4,784.39,15,2666.93,1310.31
+5,2025-05-03,Sumgayit,Clothing,Jacket,Rzayev K.,1,698.18,15,593.45,377.39
+6,2024-06-19,Lankaran,Books,Novel,Quliyeva N.,1,792.18,0,792.18,428.91
+7,2025-05-06,Lankaran,Electronics,Laptop,Hasanov R.,3,549.93,0,1649.79,771.41
+8,2024-02-27,Shaki,Electronics,Laptop,Ismayilov T.,1,29.85,10,26.87,11.12
+9,2025-01-12,Baku,Home & Kitchen,Vacuum,Hasanov R.,3,890.23,0,2670.69,1529.99
+10,2025-02-14,Sumgayit,Books,Cookbook,Mammadova S.,7,761.23,0,5328.61,3010.28
+11,2024-12-21,Sumgayit,Books,Textbook,Hasanov R.,3,1107.43,0,3322.29,1973.75
+12,2024-01-30,Baku,Books,Novel,Rzayev K.,6,532.56,5,3035.59,1394.95
+13,2024-12-12,Lankaran,Home & Kitchen,Blender,Huseynova L.,5,83.71,0,418.55,262.5
+14,2024-09-24,Ganja,Sports,Dumbbells,Rzayev K.,1,915.98,15,778.58,420.21
+15,2025-01-16,Sumgayit,Home & Kitchen,Blender,Ismayilov T.,8,104.71,0,837.68,584.4
+16,2024-09-22,Baku,Clothing,T-Shirt,Aliyev A.,7,991.31,10,6245.25,4159.85
+17,2024-08-26,Sumgayit,Clothing,T-Shirt,Huseynova L.,1,902.98,5,857.83,409.18
+18,2024-06-12,Lankaran,Home & Kitchen,Coffee Maker,Aliyeva F.,8,194.61,5,1479.04,745.43
+19,2024-09-30,Sumgayit,Sports,Yoga Mat,Rzayev K.,1,1166.93,0,1166.93,624.86
+20,2025-05-15,Sumgayit,Home & Kitchen,Coffee Maker,Ismayilov T.,7,190.95,0,1336.65,717.96
+21,2024-03-25,Sumgayit,Books,Comic,Quliyeva N.,3,787.73,15,2008.71,820.44
+22,2024-07-06,Lankaran,Clothing,Jacket,Mammadova S.,4,648.75,0,2595.0,1251.15
+23,2024-09-24,Lankaran,Electronics,Laptop,Hasanov R.,8,340.46,0,2723.68,1795.71
+24,2025-08-20,Shaki,Books,Textbook,Rzayev K.,1,902.3,15,766.95,483.94
+25,2024-08-20,Baku,Electronics,Laptop,Ismayilov T.,1,694.85,15,590.62,403.65
+26,2024-11-30,Sumgayit,Clothing,Sneakers,Mammadova S.,7,973.87,0,6817.09,2904.17
+27,2024-09-05,Lankaran,Sports,Yoga Mat,Quliyeva N.,2,465.35,0,930.7,413.58
+28,2025-08-07,Ganja,Clothing,Jeans,Huseynova L.,7,87.26,0,610.82,334.22
+29,2024-10-09,Lankaran,Sports,Dumbbells,Rzayev K.,8,264.02,5,2006.55,913.39
+30,2025-08-18,Lankaran,Home & Kitchen,Blender,Hasanov R.,6,971.06,0,5826.36,2463.41
+31,2024-10-11,Baku,Clothing,Sneakers,Ismayilov T.,8,257.42,0,2059.36,893.18
+32,2024-03-30,Baku,Home & Kitchen,Blender,Quliyeva N.,3,818.99,15,2088.42,1044.9
+33,2025-05-09,Lankaran,Clothing,T-Shirt,Huseynova L.,2,673.78,10,1212.8,648.26
+34,2025-08-12,Lankaran,Clothing,T-Shirt,Hasanov R.,1,135.43,5,128.66,76.75
+35,2024-06-02,Sumgayit,Clothing,Sneakers,Quliyeva N.,1,956.44,0,956.44,591.9
+36,2025-02-11,Sumgayit,Home & Kitchen,Toaster,Mammadova S.,5,26.43,10,118.94,65.82
+37,2025-03-31,Lankaran,Clothing,Jeans,Hasanov R.,6,623.73,5,3555.26,2063.25
+38,2025-02-03,Ganja,Books,Novel,Aliyeva F.,6,599.73,15,3058.62,1786.93
+39,2024-12-06,Lankaran,Electronics,Tablet,Huseynova L.,7,459.86,0,3219.02,1395.93
+40,2024-10-17,Shaki,Home & Kitchen,Blender,Aliyev A.,1,126.89,10,114.2,56.08
+41,2025-07-03,Sumgayit,Clothing,Jacket,Ismayilov T.,4,185.35,0,741.4,356.31
+42,2024-03-23,Shaki,Clothing,Jeans,Ismayilov T.,8,314.68,15,2139.82,1223.44
+43,2024-10-02,Sumgayit,Clothing,Jacket,Aliyev A.,6,863.18,0,5179.08,3596.34
+44,2024-03-02,Baku,Clothing,T-Shirt,Aliyeva F.,1,575.45,15,489.13,340.3
+45,2024-03-13,Sumgayit,Clothing,Jeans,Quliyeva N.,8,876.57,0,7012.56,3877.56
+46,2024-09-27,Lankaran,Home & Kitchen,Blender,Hasanov R.,1,1100.28,5,1045.27,686.47
+47,2024-03-12,Sumgayit,Electronics,Headphones,Quliyeva N.,3,108.55,0,325.65,194.68
+48,2025-08-16,Baku,Electronics,Headphones,Ismayilov T.,5,1038.63,0,5193.15,2164.09
+49,2025-02-26,Sumgayit,Books,Cookbook,Aliyeva F.,2,900.03,10,1620.05,826.52
+50,2025-02-26,Shaki,Clothing,T-Shirt,Quliyeva N.,2,330.95,15,562.62,234.55
