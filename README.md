@@ -27,7 +27,7 @@ Mən bu analizi junior data analyst kimi təcrübə qazanmaq məqsədilə hazır
 4. Visuals-ları documentation-da göstərilən kimi qurun
 
 ## Məlumat mənbəyi
-- 500 ədəd sifariş qeydi
+- 100 ədəd sifariş qeydi (nümunə data)
 - Tarix aralığı: Yanvar 2024 – Avqust 2025
 - Sahələr: OrderID, OrderDate, Region, Category, Product, Customer, Quantity, UnitPrice, Discount%, SalesAmount, Cost
 
