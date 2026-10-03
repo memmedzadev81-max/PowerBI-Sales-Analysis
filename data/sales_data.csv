@@ -1,0 +1,11 @@
+OrderID,OrderDate,Region,Category,Product,Customer,Quantity,UnitPrice,Discount%,SalesAmount,Cost
+1,2024-02-16,Shaki,Home & Kitchen,Vacuum,Ismayilov T.,3,953.04,0,2859.12,1154.7
+2,2025-08-12,Shaki,Sports,Running Shoes,Aliyev A.,2,428.11,15,727.79,331.67
+3,2024-11-14,Ganja,Books,Textbook,Hasanov R.,8,1115.19,0,8921.52,5050.99
+4,2025-05-24,Baku,Books,Comic,Huseynova L.,2,482.01,0,964.02,533.52
+5,2024-02-19,Ganja,Electronics,Tablet,Rzayev K.,4,564.75,0,2259.0,1313.56
+6,2024-12-14,Baku,Clothing,Jacket,Mammadova S.,8,17.38,0,139.04,89.1
+7,2024-07-14,Ganja,Clothing,T-Shirt,Aliyeva F.,3,976.2,0,2928.6,1229.12
+8,2024-08-01,Shaki,Sports,Football,Hasanov R.,8,538.2,0,4305.6,1914.42
+9,2025-06-25,Shaki,Clothing,Jacket,Aliyeva F.,6,132.68,10,716.47,395.55
+10,2025-04-24,Shaki,Home & Kitchen,Toaster,Aliyeva F.,7,967.78,15,5758.29,2509.95
