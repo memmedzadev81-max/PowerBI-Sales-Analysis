@@ -1,39 +1,39 @@
 # Power BI Sales Analysis Dashboard
 
-Bu layihə 2024-2025-ci illər üzrə satış məlumatlarının təhlili üçün hazırlanmış Power BI dashboard-udur.
+This project is a Power BI dashboard created for analyzing sales data from 2024-2025.
 
-## Layihə haqqında
+## About the Project
 
-Mən bu analizi junior data analyst kimi təcrübə qazanmaq məqsədilə hazırlamışam. Məlumatlar Azərbaycanın müxtəlif regionları üzrə satışları əhatə edir (Bakı, Gəncə, Sumqayıt, Lənkəran, Şəki).
+I prepared this analysis as a junior data analyst to gain practical experience. The data covers sales across different regions of Azerbaijan (Baku, Ganja, Sumgayit, Lankaran, Shaki).
 
-### Əsas göstəricilər (KPIs)
-- Ümumi Satış Həcmi
-- Ümumi Mənfəət (Sales - Cost)
-- Orta Sifariş Dəyəri
-- Endirim təsiri
-- Region və Kateqoriya üzrə performans
+### Key Metrics (KPIs)
+- Total Sales Volume
+- Total Profit (Sales - Cost)
+- Average Order Value
+- Discount Impact
+- Performance by Region and Category
 
-### Dashboard səhifələri
-1. **Overview** – Əsas KPI kartları, satış trendi (line chart), region xəritəsi
-2. **Product Performance** – Kateqoriya və məhsul üzrə bar chart, top 10 məhsul
-3. **Customer Analysis** – Müştəri seqmentasiyası, təkrar alışlar
-4. **Regional Deep Dive** – Region filter-ləri ilə detallı baxış
+### Dashboard Pages
+1. **Overview** – Main KPI cards, sales trend (line chart), region map
+2. **Product Performance** – Bar charts by category and product, top 10 products
+3. **Customer Analysis** – Customer segmentation, repeat purchases
+4. **Regional Deep Dive** – Detailed view with region filters
 
-## Quraşdırma
+## Setup Instructions
 
-1. `data/sales_data.csv` faylını Power BI Desktop-a import edin
-2. Data model-də Date table yaradın (OrderDate əsasında)
-3. `measures/` qovluğundakı DAX ölçülərini əlavə edin
-4. Visuals-ları documentation-da göstərilən kimi qurun
+1. Import the `data/sales_data.csv` file into Power BI Desktop
+2. Create a Date table in the data model (based on OrderDate)
+3. Add the DAX measures from the `measures/` folder
+4. Build the visuals as described in the documentation
 
-## Məlumat mənbəyi
-- 50 ədəd sifariş qeydi (nümunə data, asanlıqla genişləndirilə bilər)
-- Tarix aralığı: Yanvar 2024 – Avqust 2025
-- Sahələr: OrderID, OrderDate, Region, Category, Product, Customer, Quantity, UnitPrice, Discount%, SalesAmount, Cost
+## Data Source
+- 50 sample order records (can be easily expanded)
+- Date range: January 2024 – August 2025
+- Fields: OrderID, OrderDate, Region, Category, Product, Customer, Quantity, UnitPrice, Discount%, SalesAmount, Cost
 
-## Qeyd
-Bu layihə təlim məqsədlidir. Real biznes məlumatı deyil. 
-Hər hansı sualınız olsa issue açın və ya mənimlə əlaqə saxlayın.
+## Note
+This project is for training purposes only. It does not contain real business data.  
+If you have any questions, feel free to open an issue or contact me.
 
 ---
 Vusal Mammadzade  
